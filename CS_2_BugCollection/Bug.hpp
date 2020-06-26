@@ -1,3 +1,5 @@
+// *** NOTE: This code was provided as part of the assignment ***
+
 // a frivilous class of generic bugs
 class Bug
 {
