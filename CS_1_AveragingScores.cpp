@@ -38,4 +38,5 @@ int main()
 	double average = static_cast<double>(sum) / numberOfValues;
 	cout << "Average: " << average << endl;
 	cout << "Number of Scores: " << numberOfValues << endl;
+	return 0;
 }
