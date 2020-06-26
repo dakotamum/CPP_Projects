@@ -44,6 +44,9 @@ void sortMass(vector<Bug>& bugs)
 
 int main()
 {
+	// seed random number generator
+	srand(time(0));
+	
 	const int NUMBUGS = 5;
 	//TODO: make a vector of NUMBUGS bugs
 	vector<Bug> bugs(NUMBUGS);
